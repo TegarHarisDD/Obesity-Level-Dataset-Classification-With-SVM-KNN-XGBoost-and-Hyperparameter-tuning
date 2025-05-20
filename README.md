@@ -26,3 +26,14 @@ Proyek ini bertujuan untuk mengklasifikasikan tingkat obesitas individu berdasar
 3. **Pelatihan Model**: Implementasi SVM, KNN, dan XGBoost.
 4. **Tuning Hyperparameter**: Penggunaan GridSearchCV untuk optimasi parameter model.
 5. **Evaluasi Model**: Menggunakan metrik seperti akurasi, precision, recall, dan confusion matrix.
+
+## 📈 Hasil
+
+| No. | Model       | Akurasi |   |
+| --- | ----------- | ------- | - |
+| 1   | KNN Default | 85.08%  |   |
+| 2   | SVM Default | 95.56%  |   |
+| 3   | XGB Default | 99.60%  |   |
+| 4   | KNN Tuned   | 91.53%  |   |
+| 5   | SVM Tuned   | 96.77%  |   |
+| 6   | XGB Tuned   | 99.60%  |   |
